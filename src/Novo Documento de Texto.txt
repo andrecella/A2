@@ -20,4 +20,4 @@ Após conclusão do desenvolvimento, o aluno deve:
 
 --- Subir o código desenvolvido para o novo projeto no Github.
 
--- Fazer o envio do link do projeto. 
+-- Fazer o envio do link do projeto.
