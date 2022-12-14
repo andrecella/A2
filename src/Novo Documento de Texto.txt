@@ -1,0 +1,23 @@
+Desenvolver uma API REST utilizando Java e Spring Boot Que permita
+o cadastro e listagem de Cervejas Artesanais.
+
+Requisitos:
+
+A aplicação deve possuir: 
+
+- Um controller rest chamado CervejaController.java, neste controller
+fazer exposição de uma rota POST para cadastrar cervejas novas e uma rota
+GET para listagem.
+
+- Uma entity Cerveja.java contendo as propriedades  nome, fabricante e tipo,
+todas todas tipo String.
+
+- Um repository chamado CervejaRepository. 
+
+Após conclusão do desenvolvimento, o aluno deve:
+
+--- Criar um projeto no GitHub.
+
+--- Subir o código desenvolvido para o novo projeto no Github.
+
+-- Fazer o envio do link do projeto. 
