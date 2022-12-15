@@ -1,4 +1,4 @@
-package main.java.entidade;
+package entidade;
 
 public class Cerveja { 
     private String nome;
